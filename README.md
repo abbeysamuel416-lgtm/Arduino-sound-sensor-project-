@@ -1,5 +1,8 @@
 # Arduino-sound-sensor-project-
 It‘s an arduino sound sensor that can turn on or off a led by high frequency sound like a clap.
+
+
+
 const int SOUND_PIN = A0;   // sound sensor analog output
 const int LED_PIN   = 13;   // output to toggle (built-in LED)
 
